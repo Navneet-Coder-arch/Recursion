@@ -17,7 +17,7 @@ void printArray (int arr[], int size) {
 
 }
 
-//function to merge two arrays
+//function to merge two sorted arrays
 void merge (int arr[], int start, int mid, int end) {
 
     vector<int> tempMerge;
