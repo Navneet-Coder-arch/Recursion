@@ -47,7 +47,7 @@ int main() {
 
     quickSort(arr, 0, 6 - 1);
 
-    //printting array
+    //printing array
     for (int i = 0; i < 6; i++) {
         cout << arr[i] << ' ';
     }
